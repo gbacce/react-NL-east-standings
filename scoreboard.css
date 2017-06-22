@@ -1,0 +1,23 @@
+.games-back {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.games-back, .btn{
+	padding: 20px;
+}
+
+.team-name {
+	font-size: 16px;
+	padding-top: 5px;
+}
+
+.team {
+	border-style: solid;
+	border-width: 1px 0px 0px 0px;
+	border-color: black;
+}
+
+* {
+	text-align: center;
+}
