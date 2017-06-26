@@ -1,4 +1,4 @@
-
+ 
 function Poster(props){
 	
 	return(
